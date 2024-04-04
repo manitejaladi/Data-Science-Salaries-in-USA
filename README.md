@@ -25,7 +25,7 @@
 ## Tableau Dashboard 
 https://public.tableau.com/app/profile/maniteja.ladi/viz/Glassdoor_Jobs_Dashboard_17122431883690/Dashboard2?publish=yes
 
-![alt text](https://github.com/ricky1435/Glassdoor-Jobs-2018-/blob/main/Dashboard%202.png "Dashboard")
+![alt text](https://github.com/manitejaladi/Data-Science-Salaries-in-USA/blob/main/Dashboard.png)
 
 ## Author
 [Maniteja Ladi](https://github.com/manitejaladi)
